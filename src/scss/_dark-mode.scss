@@ -1,0 +1,366 @@
+/*html, .navbar {
+  @include transition(background-color);
+}*/
+
+html {
+  &.is-dark-mode-active {
+    background-color: $dark-mode-background-color;
+
+    .modal {
+      .modal-background {
+        background-color: $dark-mode-overlay-background-color
+      }
+      .modal-card-title {
+        color: $dark-mode-color;
+      }
+      .modal-card-head, .modal-card-body, .modal-card-foot {
+        background-color: $dark-mode-background-color;
+        border-color: $dark-mode-light-border-color;
+      }
+    }
+
+    .modal-close {
+      &:before, &:after {
+        background-color: $dark-mode-color;
+      }
+    }
+
+    .card {
+      .card-header {
+        .button {
+          border-color: $dark-mode-card-header-button-color!important;
+          color: $dark-mode-card-header-button-color;
+
+          &:hover {
+            background-color: $dark-mode-card-header-button-color;
+            color: $dark-mode-card-header-button-hover-color;
+          }
+        }
+      }
+    }
+
+    .button {
+      background-color: transparent;
+      border-color: $dark-mode-button-color!important;
+      color: $dark-mode-button-color!important;
+
+      &:hover:not([disabled]) {
+        background-color: $dark-mode-button-color;
+        color: $dark-mode-button-hover-color!important;
+      }
+
+      @each $state-class, $state-color, $state-text in $state-colors {
+        &.is-#{$state-class} {
+          border-color: $state-color!important;
+          color: $state-color!important;
+
+          &:hover {
+            background-color: $state-color;
+            color: $state-text;
+          }
+        }
+      }
+    }
+
+    .select select:focus, .textarea:focus, .input:focus, .taginput .taginput-container.is-focusable:focus, .select select.is-focused, .is-focused.textarea, .is-focused.input, .taginput .is-focused.taginput-container.is-focusable, .select select:active, .textarea:active, .input:active, .taginput .taginput-container.is-focusable:active, .select select.is-active, .is-active.textarea, .is-active.input, .taginput .is-active.taginput-container.is-focusable {
+      border-color: $cyan;
+    }
+
+    .radio, .checkbox {
+      &:hover {
+        color: $dark-mode-color;
+      }
+    }
+
+    .label {
+      color: $grey-lighter;
+    }
+
+    .input, .textarea, .select select {
+      color: $dark-mode-color;
+      background-color: transparent;
+
+      &::placeholder {
+        color: $grey-light;
+      }
+    }
+
+    .select {
+      &:not(.is-multiple):not(.is-loading)::after {
+        border-color: $dark-mode-color;
+      }
+      select {
+        color: $dark-mode-color;
+      }
+    }
+
+    .b-checkbox.checkbox input[type=checkbox], .b-radio.radio input[type=radio] {
+      &+.check {
+        border: $dark-mode-border;
+      }
+    }
+
+    .notification {
+      @each $state-class, $state-color, $state-text in $state-colors {
+        &.is-#{$state-class} {
+          background-color: transparent;
+          border: 1px solid $state-color;
+          color: $state-color;
+
+          .button {
+            border-color: $state-color!important;
+            color: $state-color!important;
+
+            &:hover {
+              background-color: $state-color;
+              color: $state-text!important;
+            }
+          }
+        }
+      }
+    }
+
+    .tag {
+      &.is-delete {
+        background-color: $grey-dark;
+      }
+
+      @each $state-class, $state-color, $state-text in $state-colors {
+        &.is-#{$state-class} {
+          background-color: transparent;
+          border: 1px solid $state-color;
+          color: $state-color;
+        }
+      }
+    }
+
+    .table {
+      background-color: transparent;
+      color: $dark-mode-color;
+
+      thead {
+        td, th {
+          color: $dark-mode-color;
+        }
+      }
+
+      td, th {
+        border-color: $dark-mode-light-border-color;
+      }
+
+      &.is-hoverable.is-striped tbody tr:not(.is-selected):hover {
+        background-color: $dark-mode-light-border-color;
+
+        &:nth-child(even) {
+          background-color: $grey-dark;
+        }
+      }
+
+      &.is-striped tbody tr:not(.is-selected):nth-child(even) {
+        background-color: $dark-mode-light-border-color;
+      }
+    }
+
+    .b-table .table-wrapper + .level {
+      background-color: transparent;
+
+      .pagination-link {
+        background-color: transparent;
+        color: $grey;
+        border-color: $grey;
+
+        &:hover:not(.is-current):not([disabled]) {
+          color: $grey-lighter;
+          border-color: $grey-lighter;
+        }
+
+        &.is-current {
+          color: $dark-mode-color;
+          border-color: $dark-mode-border-color;
+        }
+      }
+    }
+
+    .title {
+      color: $grey-lighter;
+    }
+
+    .subtitle {
+      color: $grey-lighter;
+    }
+
+    body {
+      color: $grey-lighter;
+    }
+
+    strong {
+      color: $dark-mode-color;
+    }
+
+    hr {
+      background-color: $dark-mode-light-border-color;
+    }
+
+    a {
+      color: $dark-mode-link-color;
+    }
+
+    .media {
+      border-color: $dark-mode-light-border-color;
+    }
+
+    nav.navbar {
+      background-color: $dark-mode-background-color;
+      box-shadow: 0 1px $dark-mode-light-border-color;
+
+      .navbar-item {
+        color: $dark-mode-link-color;
+
+        .navbar-link {
+          color: $dark-mode-link-color;
+        }
+
+        .input {
+          color: $dark-mode-color;
+        }
+
+        &.has-divider {
+          border-color: $dark-mode-light-border-color;
+        }
+
+        &.is-active {
+          color: $dark-mode-link-active-color;
+        }
+      }
+    }
+
+    .navbar-dropdown {
+      background-color: $dark-mode-background-color;
+    }
+
+    aside.aside {
+      background-color: $dark-mode-background-color;
+      box-shadow: 1px 0 $dark-mode-light-border-color;
+
+      .aside-tools {
+        color: $dark-mode-color;
+        box-shadow: 0 1px $dark-mode-light-border-color;
+
+        .aside-close {
+          color: $dark-mode-color;
+        }
+      }
+
+      .menu-list li.is-active {
+        box-shadow: 0 1px $dark-mode-light-border-color;
+
+        >a {
+          box-shadow: 0 1px $dark-mode-light-border-color;
+        }
+      }
+    }
+
+    .menu-list a {
+      &.is-active {
+        color: $dark-mode-link-active-color;
+      }
+      &:hover {
+        color: $dark-mode-link-hover-color;
+      }
+    }
+
+    .card {
+      border-color: $dark-mode-light-border-color;
+      color: $grey-lighter;
+
+      .card-header {
+        border-color: $dark-mode-light-border-color;
+      }
+
+      .card-header-title {
+        color: $grey-lighter;
+      }
+
+      .card-footer {
+        border-color: $dark-mode-light-border-color;
+      }
+
+      .is-widget-label {
+        .subtitle {
+          color: $grey-light;
+        }
+      }
+
+      .notification {
+        background-color: $dark-mode-light-border-color;
+        color: $grey-lighter;
+      }
+    }
+
+    section {
+      &.section.is-title-bar, &.hero.is-hero-bar {
+        border-color: $dark-mode-light-border-color;
+      }
+
+      &.section.is-title-bar {
+        ul li {
+          color: $grey-light;
+
+          &:last-child {
+            color: $grey-lighter;
+          }
+        }
+      }
+    }
+
+    footer.footer {
+      border-color: $dark-mode-light-border-color;
+
+      .logo svg path {
+        fill: $dark-mode-color;
+      }
+    }
+  }
+}
+
+@include touch {
+  html.is-dark-mode-active {
+
+    aside.aside.is-secondary {
+      border-color: $dark-mode-light-border-color!important;
+    }
+
+    .navbar-menu {
+      background-color: $dark-mode-background-color;
+      box-shadow: 0 8px 16px rgba($black, 0.25);
+
+      .navbar-item {
+        &.has-dropdown {
+          >.navbar-link {
+            border-color: $dark-mode-light-border-color;
+          }
+        }
+      }
+    }
+  }
+}
+
+@include desktop {
+  html.is-dark-mode-active {
+    .navbar-dropdown {
+      border-color: $dark-mode-light-border-color;
+      box-shadow: 0 8px 8px rgba($black, 0.25);
+    }
+  }
+}
+
+@include until-widescreen {
+  html.is-dark-mode-active {
+    aside.aside {
+      .aside-tools {
+        box-shadow: 0 1px $dark-mode-light-border-color;
+      }
+    }
+  }
+}
+

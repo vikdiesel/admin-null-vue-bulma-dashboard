@@ -1,0 +1,32 @@
+.modal-card {
+  width: $modal-card-width;
+}
+
+.modal-card-head, .modal-card-foot {
+  border: $light-border;
+}
+
+.modal-card-body {
+  border-left: $light-border;
+  border-right: $light-border;
+}
+
+.modal-card-foot {
+  background-color: $modal-card-foot-background-color;
+}
+
+.modal-close {
+  &:before, &:after {
+    background-color: $base-color;
+  }
+  &:hover {
+    background-color: transparent;
+  }
+}
+
+@include mobile {
+  .modal .animation-content .modal-card {
+    width: $modal-card-width-mobile;
+    margin: 0 auto;
+  }
+}

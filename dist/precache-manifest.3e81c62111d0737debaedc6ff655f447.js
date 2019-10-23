@@ -48,15 +48,15 @@ self.__precacheManifest = [
     "url": "/js/app.44451b20.js"
   },
   {
-    "revision": "9bfeb985a91e5545d78b906676d8e6fb",
-    "url": "/fonts/materialdesignicons-webfont.9bfeb985.ttf"
-  },
-  {
     "revision": "e971abae304374a81d9f7cea55039de8",
     "url": "/fonts/materialdesignicons-webfont.e971abae.eot"
   },
   {
-    "revision": "4ec659644e46599422191c09cb535495",
+    "revision": "9bfeb985a91e5545d78b906676d8e6fb",
+    "url": "/fonts/materialdesignicons-webfont.9bfeb985.ttf"
+  },
+  {
+    "revision": "25ed4dfd2eb0aa00b60bb21b1cfdfa85",
     "url": "/index.html"
   },
   {

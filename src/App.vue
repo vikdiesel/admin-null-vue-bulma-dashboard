@@ -1,7 +1,7 @@
 <template>
   <div id="app">
     <nav-bar/>
-    <aside-menu :menu="menu"/>
+    <aside-menu :menu="menu" @menu-click="menuClick"/>
     <router-view/>
     <footer-bar/>
   </div>
@@ -33,6 +33,11 @@ export default {
         ],
         'Examples',
         [
+          {
+            action: 'dark-mode-toggle',
+            label: 'Dark / White',
+            icon: 'weather-night'
+          },
           {
             to: '/tables',
             label: 'Tables',
@@ -87,6 +92,13 @@ export default {
       email: 'john@example.com',
       avatar: '/data-sources/avatars/annie-spratt-121576-unsplash.jpg'
     })
+  },
+  methods: {
+    menuClick (item) {
+      if (item.action && item.action === 'dark-mode-toggle') {
+        this.$store.commit('darkModeToggle')
+      }
+    }
   }
 }
 </script>

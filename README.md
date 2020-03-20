@@ -1,23 +1,19 @@
-# [Admin Null Vue Bulma Admin Dashboard](https://justboil.me/bulma-admin-template/one)
+# [Admin Null — Free Vue Bulma Admin Dashboard](https://justboil.me/bulma-admin-template/null)
 
-![version](https://img.shields.io/badge/version-1.1.0-blue.svg)  ![license](https://img.shields.io/badge/license-MIT-blue.svg)
+![version](https://img.shields.io/badge/version-1.1.1-blue.svg)  ![license](https://img.shields.io/badge/license-MIT-blue.svg)
 
-![Vue Bulma Admin Dashboard](https://justboil.me/images/null/preview-free.jpg)
+[![Vue.js Bulma free admin dashboard](https://justboil.me/images/null/repository-preview-free.png)](https://justboil.me/bulma-admin-template/null)
 
-<hr>
-
-![Vue Bulma Admin Dashboard](https://justboil.me/images/null/preview-dark-free.jpg)
-
-**Admin Null Vue Bulma Dashboard** is simple yet beautiful Vue.js Bulma Admin Dashboard.
+**Admin Null** is simple, beautiful and free Vue.js Bulma Admin Dashboard.
 
 * Free under MIT License
-* SPA — Single page app
-* Built with VueCLI 3.6, Buefy & Bulma
+* PWA/SPA — Single page app
+* Built with Bulma, Buefy, Vue & Vue CLI
 * SCSS sources with variables
 * More than 17 custom components
 * [Premium version](https://justboil.me/bulma-admin-template/null) available
 
-[JustBoil.me](https://justboil.me) is happy to share this dashboard with you. Feel free to give your feedback
+[JustBoil.me](https://justboil.me) is excited to share this dashboard with community.
 
 ## Table of Contents
 
@@ -41,8 +37,7 @@
 Do one of the following:
 
 * Clone this repo
-* Download as zip-archive from GitHub
-* Download from [JustBoil.me](https://justboil.me/bulma-admin-template/null)
+* [Download .zip](https://github.com/vikdiesel/admin-null-vue-bulma-dashboard/archive/master.zip) from GitHub
 
 #### Install
 
@@ -54,7 +49,7 @@ To pre-compile & hot-reload for development run `npm run serve`
 
 #### Build
 
-Production-ready with minifed bundle `npm run build`
+Production-ready with minified bundle `npm run build`
 
 ## Browser Support
 
@@ -76,12 +71,13 @@ The issue list is reserved exclusively for bug reports and feature requests. Tha
 
 ## Licensing
 
-- Copyright &copy; 2019 Viktor Kuzhelnyi (https://justboil.me)
+- Copyright &copy; 2019-2020 JustBoil.me (https://justboil.me)
 - Licensed under MIT
 
 ## Useful Links
 
 - [JustBoil.me](https://justboil.me)
-- [Affiliate Program](https://justboil.me/info/affiliates)
+- [Vue.js Guide](https://vuejs.org/v2/guide/)
+- [Vue CLI Guide](https://cli.vuejs.org/guide/)
 - [Buefy](https://buefy.org)
-- [VueCLI Configuration Reference](https://cli.vuejs.org/config/)
+- [Bulma](https://bulma.io)

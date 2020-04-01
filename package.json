@@ -1,6 +1,6 @@
 {
   "name": "admin-null-vue-bulma-dashboard",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "private": true,
   "scripts": {
     "serve": "vue-cli-service serve",
@@ -10,7 +10,7 @@
   "dependencies": {
     "@mdi/font": "^4.9.95",
     "axios": "^0.19.1",
-    "buefy": "^0.8.13",
+    "buefy": "^0.8.15",
     "bulma": "^0.7.5",
     "chart.js": "^2.9.3",
     "core-js": "^3.6.4",

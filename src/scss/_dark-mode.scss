@@ -1,7 +1,3 @@
-/*html, .navbar {
-  @include transition(background-color);
-}*/
-
 html {
   &.is-dark-mode-active {
     background-color: $dark-mode-background-color;
@@ -94,9 +90,17 @@ html {
       }
     }
 
+    .switch input[type=checkbox] + .check {
+      border: $dark-mode-border;
+
+      &:before {
+        border-color: $white;
+      }
+    }
+
     .b-checkbox.checkbox input[type=checkbox], .b-radio.radio input[type=radio] {
       &+.check {
-        border: $dark-mode-border;
+        border: $dark-mode-border!important;
       }
     }
 
@@ -119,6 +123,14 @@ html {
         }
       }
     }
+
+    /*progress.progress {
+      border-color: $dark-mode-color;
+
+      &::-webkit-progress-bar, &::-webkit-progress-value, &::-moz-progress-bar, &::-ms-fill {
+        background-color: $dark-mode-color!important;
+      }
+    }*/
 
     .tag {
       &.is-delete {

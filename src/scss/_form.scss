@@ -29,14 +29,40 @@
   background-color: transparent;
 }
 
-.switch input[type=checkbox]+.check:before {
-  box-shadow: none;
+.switch {
+  &:hover, &:focus {
+    input[type=checkbox] + .check {
+      background: transparent;
+    }
+  }
+
+  input[type=checkbox] {
+    &:checked + .check {
+      border-color: $primary;
+      &:before {
+        background: $white;
+        border: 0;
+      }
+    }
+    + .check {
+      background: transparent;
+      border: $checkbox-border;
+
+      &:before {
+        background: transparent;
+        border: $checkbox-border;
+        box-shadow: none;
+      }
+    }
+  }
 }
 
 .switch, .b-checkbox.checkbox, .b-radio.radio {
   input[type=checkbox], input[type=radio] {
-    &:focus + .check, &:focus:checked + .check {
-      box-shadow: none!important;
+    &:focus, &:focus:checked, &:active {
+      + .check {
+        box-shadow: none!important;
+      }
     }
   }
 }

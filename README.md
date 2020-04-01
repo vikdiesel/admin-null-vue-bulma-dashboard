@@ -1,6 +1,6 @@
 # [Admin Null — Free Vue Bulma Admin Dashboard](https://justboil.me/bulma-admin-template/null)
 
-![version](https://img.shields.io/badge/version-1.1.1-blue.svg)  ![license](https://img.shields.io/badge/license-MIT-blue.svg)
+![version](https://img.shields.io/badge/version-1.1.2-blue.svg)  ![license](https://img.shields.io/badge/license-MIT-blue.svg)
 
 [![Vue.js Bulma free admin dashboard](https://justboil.me/images/null/repository-preview-free.png)](https://justboil.me/bulma-admin-template/null)
 

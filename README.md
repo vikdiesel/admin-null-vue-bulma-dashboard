@@ -67,7 +67,7 @@ The issue list is reserved exclusively for bug reports and feature requests. Tha
 2. Provide steps to reproduce
 3. Provide an expected behavior
 4. Describe what is actually happening 
-5. Platfrom, Browser & version as some issues may be browser specific
+5. Platform, Browser & version as some issues may be browser specific
 
 ## Licensing
 

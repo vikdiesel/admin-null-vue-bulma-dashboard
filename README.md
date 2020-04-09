@@ -1,4 +1,4 @@
-# [Admin Null — Free Vue Bulma Admin Dashboard](https://justboil.me/bulma-admin-template/null)
+# [Admin Null — free Vue Bulma dashboard with dark mode](https://justboil.me/bulma-admin-template/null)
 
 ![version](https://img.shields.io/badge/version-1.1.3-blue.svg)  ![license](https://img.shields.io/badge/license-MIT-blue.svg)
 

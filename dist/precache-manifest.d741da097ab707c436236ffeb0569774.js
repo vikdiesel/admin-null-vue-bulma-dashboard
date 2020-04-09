@@ -1,7 +1,7 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "affceefb198a748e9780",
-    "url": "/css/app.08f4aea2.css"
+    "revision": "aa889473aece7b7ecb55",
+    "url": "/css/app.d3a51287.css"
   },
   {
     "revision": "ea20c55fe8098ec08f63",
@@ -56,11 +56,11 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/img/justboil-logo.7298fabb.svg"
   },
   {
-    "revision": "aa399926d26234fa95204cd07d7c1ef3",
+    "revision": "777e2a255bb7a47d987461222df76512",
     "url": "/index.html"
   },
   {
-    "revision": "affceefb198a748e9780",
+    "revision": "aa889473aece7b7ecb55",
     "url": "/js/app.cf1c688e.js"
   },
   {

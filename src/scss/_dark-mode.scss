@@ -338,6 +338,14 @@ html {
 @include touch {
   html.is-dark-mode-active {
 
+    .table-wrapper.has-mobile-cards {
+      tr:not(.detail):not(.is-empty):not(.table-footer) {
+        td {
+          border-bottom-color: $dark-mode-light-border-color;
+        }
+      }
+    }
+
     aside.aside.is-secondary {
       border-color: $dark-mode-light-border-color!important;
     }

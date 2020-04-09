@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "16b9a6b4f491ad9b803c",
-    "url": "/css/app.5ead4457.css"
+    "revision": "affceefb198a748e9780",
+    "url": "/css/app.08f4aea2.css"
   },
   {
-    "revision": "a1eb8452884b07375e44",
+    "revision": "ea20c55fe8098ec08f63",
     "url": "/css/chunk-vendors.6a5e6c3f.css"
   },
   {
@@ -32,7 +32,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/data-sources/avatars/nicolas-horn-689011-unsplash.jpg"
   },
   {
-    "revision": "63e8d58029d95b6ea85c0a92e24eca83",
+    "revision": "9a6ca47d93129ae4f2f0f4bd274b8ab9",
     "url": "/data-sources/clients.json"
   },
   {
@@ -56,36 +56,36 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/img/justboil-logo.7298fabb.svg"
   },
   {
-    "revision": "92c13cee4c5438dd0fc730415b61c416",
+    "revision": "aa399926d26234fa95204cd07d7c1ef3",
     "url": "/index.html"
   },
   {
-    "revision": "16b9a6b4f491ad9b803c",
-    "url": "/js/app.da0e5cfc.js"
+    "revision": "affceefb198a748e9780",
+    "url": "/js/app.cf1c688e.js"
   },
   {
-    "revision": "a1eb8452884b07375e44",
-    "url": "/js/chunk-vendors.45db661a.js"
+    "revision": "ea20c55fe8098ec08f63",
+    "url": "/js/chunk-vendors.a3fc8e79.js"
   },
   {
-    "revision": "55c6cfd3a2ddd041d7de",
-    "url": "/js/client-form.46fb8685.js"
+    "revision": "f79c7c708ebf9dc16dc9",
+    "url": "/js/client-form.c2a89eba.js"
   },
   {
-    "revision": "51aed8bb978222e11661",
-    "url": "/js/client-form~forms.d602c42a.js"
+    "revision": "8165338b7645029a3d50",
+    "url": "/js/client-form~forms.f713d1e0.js"
   },
   {
-    "revision": "8c4861068b010f89405b",
-    "url": "/js/forms.dcc958b7.js"
+    "revision": "a3c270ae232f4dfe2526",
+    "url": "/js/forms.c25ab647.js"
   },
   {
-    "revision": "28362f94c7c75e32f175",
-    "url": "/js/profile.00f798e4.js"
+    "revision": "92a038a7c6d8f86321c1",
+    "url": "/js/profile.fd1befd3.js"
   },
   {
-    "revision": "6ea9ba14ba97efc7cec0",
-    "url": "/js/tables.6f917504.js"
+    "revision": "404d1c4a960d9c1b9321",
+    "url": "/js/tables.d4420edd.js"
   },
   {
     "revision": "9e02268cb14385af9653507bc8b8ee72",

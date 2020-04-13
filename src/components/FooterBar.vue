@@ -4,7 +4,9 @@
       <div class="level">
         <div class="level-left">
           <div class="level-item">
-            &copy; {{ year }}, JustBoil.me
+            <div>
+              <b>&copy; {{ year }}, JustBoil.me</b> &mdash; Admin Null demo
+            </div>
           </div>
         </div>
         <div class="level-right">

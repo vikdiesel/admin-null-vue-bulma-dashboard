@@ -36,7 +36,8 @@
 
 Do one of the following:
 
-* Clone this repo
+* [Create new repo](https://github.com/vikdiesel/admin-null-vue-bulma-dashboard/generate) from this template
+* Clone the repo
 * [Download .zip](https://github.com/vikdiesel/admin-null-vue-bulma-dashboard/archive/master.zip) from GitHub
 
 #### Install

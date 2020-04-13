@@ -30,7 +30,6 @@
 </template>
 
 <script>
-// @ is an alias to /src
 import * as chartConfig from '@/components/Charts/chart.config'
 import TitleBar from '@/components/TitleBar'
 import HeroBar from '@/components/HeroBar'
@@ -39,6 +38,7 @@ import CardWidget from '@/components/CardWidget'
 import CardComponent from '@/components/CardComponent'
 import LineChart from '@/components/Charts/LineChart'
 import ClientsTableSample from '@/components/ClientsTableSample'
+
 export default {
   name: 'home',
   components: {

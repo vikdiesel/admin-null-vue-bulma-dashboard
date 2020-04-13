@@ -45,7 +45,6 @@
           <div class="is-user-name">
             <span>{{ userName }}</span>
           </div>
-
           <div slot="dropdown" class="navbar-dropdown">
             <router-link to="/profile" class="navbar-item" exact-active-class="is-active">
               <b-icon icon="account" custom-size="default"></b-icon>

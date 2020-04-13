@@ -6,6 +6,7 @@
 
 <script>
 import { mapState } from 'vuex'
+
 export default {
   name: 'UserAvatar',
   props: {

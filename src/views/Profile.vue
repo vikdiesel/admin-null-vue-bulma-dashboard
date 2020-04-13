@@ -36,6 +36,7 @@ import ProfileUpdateForm from '@/components/ProfileUpdateForm'
 import PasswordUpdateForm from '@/components/PasswordUpdateForm'
 import Tiles from '@/components/Tiles'
 import UserAvatar from '@/components/UserAvatar'
+
 export default {
   name: 'Profile',
   components: { UserAvatar, Tiles, PasswordUpdateForm, ProfileUpdateForm, HeroBar, TitleBar, CardComponent },

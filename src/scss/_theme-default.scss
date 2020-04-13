@@ -26,6 +26,9 @@ $navbar-item-color: $link;
 $navbar-item-hover-background-color: transparent;
 $navbar-item-active-color: $black-ter;
 $navbar-item-active-background-color: transparent;
+$navbar-dropdown-item-active-color: $base-color;
+$navbar-dropdown-item-hover-background-color: transparent;
+$navbar-dropdown-item-active-background-color: transparent;
 
 /* NavBar: specifics */
 $navbar-input-color: $grey-darker;
@@ -115,6 +118,9 @@ $progress-bar-background-color: transparent;
 /* Icon: specifics */
 $icon-update-mark-size: $size-base * .5;
 $icon-update-mark-color: $yellow;
+
+/* Slider: Buefy override */
+$slider-track-background: transparent;
 
 /* Status/State colors (based on Bulma's) */
 $state-colors:

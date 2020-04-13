@@ -104,6 +104,10 @@ html {
       }
     }
 
+    .b-slider .b-slider-thumb-wrapper .b-slider-thumb {
+      background: $dark-mode-background-color;
+    }
+
     .notification {
       @each $state-class, $state-color, $state-text in $state-colors {
         &.is-#{$state-class} {
@@ -123,14 +127,6 @@ html {
         }
       }
     }
-
-    /*progress.progress {
-      border-color: $dark-mode-color;
-
-      &::-webkit-progress-bar, &::-webkit-progress-value, &::-moz-progress-bar, &::-ms-fill {
-        background-color: $dark-mode-color!important;
-      }
-    }*/
 
     .tag {
       &.is-delete {
@@ -248,6 +244,10 @@ html {
 
     .navbar-dropdown {
       background-color: $dark-mode-background-color;
+
+      .navbar-item:hover {
+        color: $dark-mode-color;
+      }
     }
 
     aside.aside {
@@ -383,4 +383,3 @@ html {
     }
   }
 }
-

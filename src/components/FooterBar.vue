@@ -5,7 +5,7 @@
         <div class="level-left">
           <div class="level-item">
             <div>
-              <b>&copy; {{ year }}, JustBoil.me</b> &mdash; Admin Null demo
+              <b>&copy; {{ year }}, JustBoil.me</b> &mdash; Admin Null demo (v1.1.5)
             </div>
           </div>
         </div>

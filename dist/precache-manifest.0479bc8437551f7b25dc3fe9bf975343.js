@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "22d2fcb3e2044fa69405",
+    "revision": "0f0e03975e12f38f4791",
     "url": "/css/app.4285499b.css"
   },
   {
-    "revision": "3e4065af09a5c40e5e5c",
+    "revision": "2597cec384cd22a97204",
     "url": "/css/chunk-vendors.6a5e6c3f.css"
   },
   {
@@ -32,16 +32,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/img/justboil-logo.7298fabb.svg"
   },
   {
-    "revision": "1455bb90b6cac1175ee27476d384a907",
+    "revision": "fe284f157131f055ab3ffa1547c4ad63",
     "url": "/index.html"
   },
   {
-    "revision": "22d2fcb3e2044fa69405",
-    "url": "/js/app.392f4b59.js"
+    "revision": "0f0e03975e12f38f4791",
+    "url": "/js/app.fb8d4e7e.js"
   },
   {
-    "revision": "3e4065af09a5c40e5e5c",
-    "url": "/js/chunk-vendors.325c8691.js"
+    "revision": "2597cec384cd22a97204",
+    "url": "/js/chunk-vendors.ab8b9078.js"
   },
   {
     "revision": "5b24911e29ca3cdfd4ea",

@@ -16,13 +16,10 @@ import './registerServiceWorker'
 /* Vue. Main component */
 import App from './App.vue'
 
-/* Vue. Component in recursion */
-import AsideMenuList from '@/components/AsideMenuList'
-
 /* Default title tag */
 const defaultDocumentTitle = 'Admin Null Bulma'
 
-/* Collapse mobile aside menu on route change */
+/* Collapse mobile aside menu on route change & set document title from route meta */
 router.afterEach(to => {
   store.commit('asideMobileStateToggle', false)
 
@@ -34,9 +31,6 @@ router.afterEach(to => {
 })
 
 Vue.config.productionTip = false
-
-/* These components are used in recursion algorithm */
-Vue.component('AsideMenuList', AsideMenuList)
 
 Vue.use(Buefy)
 

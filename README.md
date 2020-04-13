@@ -27,7 +27,7 @@
 ## Description & Demo
 
 * Description: https://justboil.me/bulma-admin-template/null
-* **Free Vue.js Bulma Dashboard** Demo: https://admin-null-free.justboil.me
+* **Free Vue.js Bulma Dashboard** Demo: https://vikdiesel.github.io/admin-null-vue-bulma-dashboard/
 * **Premium Vue.js Bulma Dashboard** Demo: https://admin-null.justboil.me
 
 ## Quick Start

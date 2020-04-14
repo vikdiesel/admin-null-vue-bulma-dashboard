@@ -2,7 +2,7 @@
 
 [![version](https://img.shields.io/badge/version-1.1.6-blue.svg)](https://justboil.me/bulma-admin-template/null)  [![license](https://img.shields.io/badge/license-MIT-blue.svg)](https://justboil.me/bulma-admin-template/null)
 
-[![Vue.js Bulma free admin dashboard](https://justboil.me/images/null/repository-preview-free.png)](https://vikdiesel.github.io/admin-null-vue-bulma-dashboard/)
+[![Vue.js Bulma free admin dashboard](https://justboil.me/images/null/repository-preview-hi-res.png)](https://vikdiesel.github.io/admin-null-vue-bulma-dashboard/)
 
 **Admin Null** is simple, beautiful and free Vue.js Bulma Admin Dashboard.
 

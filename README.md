@@ -1,8 +1,8 @@
 # [Admin Null — free Vue Bulma dashboard with dark mode](https://justboil.me/bulma-admin-template/null)
 
-![version](https://img.shields.io/badge/version-1.1.5-blue.svg)  ![license](https://img.shields.io/badge/license-MIT-blue.svg)
+[![version](https://img.shields.io/badge/version-1.1.5-blue.svg)](https://justboil.me/bulma-admin-template/null)  [![license](https://img.shields.io/badge/license-MIT-blue.svg)](https://justboil.me/bulma-admin-template/null)
 
-[![Vue.js Bulma free admin dashboard](https://justboil.me/images/null/repository-preview-free.png)](https://justboil.me/bulma-admin-template/null)
+[![Vue.js Bulma free admin dashboard](https://justboil.me/images/null/repository-preview-free.png)](https://vikdiesel.github.io/admin-null-vue-bulma-dashboard/)
 
 **Admin Null** is simple, beautiful and free Vue.js Bulma Admin Dashboard.
 
@@ -13,16 +13,25 @@
 * More than 17 custom components
 * [Premium version](https://justboil.me/bulma-admin-template/null) available
 
-[JustBoil.me](https://justboil.me) is excited to share this dashboard with community.
-
 ## Table of Contents
 
+* [Other versions](#other-versions)
 * [Description & Demo](#description--demo)
 * [Quick Start](#quick-start)
 * [Browser Support](#browser-support)
 * [Reporting Issues](#reporting-issues)
 * [Licensing](#licensing)
 * [Useful Links](#useful-links)
+
+## Other versions
+
+This is Vue CLI dashboard version (Bulma, Buefy, Vue.js). Other versions below.
+
+### Nuxt.js version
+
+**Free** Bulma Nuxt.js Buefy admin dashboard — https://github.com/justboil/admin-null-nuxt
+
+**Premium** Bulma Nuxt.js Buefy admin dashboard — https://justboil.me/bulma-admin-template/null-nuxt
 
 ## Description & Demo
 

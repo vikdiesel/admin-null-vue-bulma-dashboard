@@ -8,3 +8,9 @@ footer.footer {
     }
   }
 }
+
+@include mobile {
+  .footer-copyright {
+    text-align: center;
+  }
+}

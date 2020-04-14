@@ -1,6 +1,6 @@
 # [Admin Null — free Vue Bulma dashboard with dark mode](https://justboil.me/bulma-admin-template/null)
 
-[![version](https://img.shields.io/badge/version-1.1.5-blue.svg)](https://justboil.me/bulma-admin-template/null)  [![license](https://img.shields.io/badge/license-MIT-blue.svg)](https://justboil.me/bulma-admin-template/null)
+[![version](https://img.shields.io/badge/version-1.1.6-blue.svg)](https://justboil.me/bulma-admin-template/null)  [![license](https://img.shields.io/badge/license-MIT-blue.svg)](https://justboil.me/bulma-admin-template/null)
 
 [![Vue.js Bulma free admin dashboard](https://justboil.me/images/null/repository-preview-free.png)](https://vikdiesel.github.io/admin-null-vue-bulma-dashboard/)
 
@@ -54,8 +54,8 @@ https://admin-null.justboil.me
 Do one of the following:
 
 * [Create new repo](https://github.com/vikdiesel/admin-null-vue-bulma-dashboard/generate) from this template
-* Clone the repo on GitHub
-* [Download .zip](https://github.com/vikdiesel/admin-null-vue-bulma-dashboard/archive/master.zip) from GitHub
+* &hellip;or clone the repo on GitHub
+* &hellip;or [download .zip](https://github.com/vikdiesel/admin-null-vue-bulma-dashboard/archive/master.zip) from GitHub
 
 #### Install
 

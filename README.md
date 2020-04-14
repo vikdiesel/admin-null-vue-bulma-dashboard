@@ -46,7 +46,7 @@ This is Vue CLI dashboard version (Bulma, Buefy, Vue.js). Other versions below.
 Do one of the following:
 
 * [Create new repo](https://github.com/vikdiesel/admin-null-vue-bulma-dashboard/generate) from this template
-* Clone the repo
+* Clone the repo on GitHub
 * [Download .zip](https://github.com/vikdiesel/admin-null-vue-bulma-dashboard/archive/master.zip) from GitHub
 
 #### Install
@@ -65,7 +65,11 @@ Production-ready with minified bundle `npm run build`
 
 We try to make sure Dashboard works well in latest versions of all major browsers
 
-![Chrome](https://justboil.me/images/browsers/chrome.png) ![Firefox](https://justboil.me/images/browsers/firefox.png) ![Microsoft Edge](https://justboil.me/images/browsers/edge.png) ![Opera](https://justboil.me/images/browsers/opera.png) ![Safari](https://justboil.me/images/browsers/safari.png)
+<img src="https://justboil.me/images/browsers-svg/chrome.svg" width="64" height="64" alt="Chrome">
+<img src="https://justboil.me/images/browsers-svg/firefox.svg" width="64" height="64" alt="Firefox">
+<img src="https://justboil.me/images/browsers-svg/edge.svg" width="64" height="64" alt="Edge">
+<img src="https://justboil.me/images/browsers-svg/safari.svg" width="64" height="64" alt="Safari">
+<img src="https://justboil.me/images/browsers-svg/opera.svg" width="64" height="64" alt="Opera">
 
 ## Reporting Issues
 

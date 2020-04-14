@@ -27,7 +27,7 @@
 
 This is Vue CLI dashboard version (Bulma, Buefy, Vue.js). Other versions below.
 
-### Nuxt.js version
+#### Nuxt.js version
 
 **Free** Bulma Nuxt.js Buefy admin dashboard — https://github.com/justboil/admin-null-nuxt
 
@@ -35,9 +35,17 @@ This is Vue CLI dashboard version (Bulma, Buefy, Vue.js). Other versions below.
 
 ## Description & Demo
 
-* Description: https://justboil.me/bulma-admin-template/null
-* **Free Vue.js Bulma Dashboard** Demo: https://vikdiesel.github.io/admin-null-vue-bulma-dashboard/
-* **Premium Vue.js Bulma Dashboard** Demo: https://admin-null.justboil.me
+#### Description
+
+https://justboil.me/bulma-admin-template/null
+
+#### Free Dashboard Demo
+
+https://vikdiesel.github.io/admin-null-vue-bulma-dashboard/
+
+#### Premium Dashboard Demo
+
+https://admin-null.justboil.me
 
 ## Quick Start
 

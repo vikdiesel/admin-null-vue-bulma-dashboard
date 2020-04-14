@@ -51,8 +51,6 @@ https://admin-null.justboil.me
 
 #### Get the repo
 
-Do one of the following:
-
 * [Create new repo](https://github.com/vikdiesel/admin-null-vue-bulma-dashboard/generate) from this template
 * &hellip;or clone the repo on GitHub
 * &hellip;or [download .zip](https://github.com/vikdiesel/admin-null-vue-bulma-dashboard/archive/master.zip) from GitHub

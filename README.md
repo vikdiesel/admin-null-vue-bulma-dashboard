@@ -5,7 +5,7 @@
 [![Vue.js Bulma free admin dashboard](https://justboil.me/images/null/repository-preview-hi-res.png)](https://vikdiesel.github.io/admin-null-vue-bulma-dashboard/)
 
 **Admin Null** is simple, beautiful and free Vue.js Bulma Buefy admin dashboard.
-s
+
 * Free under MIT License
 * PWA/SPA — Single page app
 * Built with Bulma, Buefy, Vue & Vue CLI

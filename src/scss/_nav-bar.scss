@@ -61,6 +61,11 @@ nav.navbar {
       &.no-left-space-touch {
         padding-left: 0;
       }
+
+      &.has-control {
+        padding-top: 0;
+        padding-bottom: 0;
+      }
     }
 
     .navbar-menu {
@@ -110,6 +115,7 @@ nav.navbar {
           margin-right: $default-padding * .5;
         }
       }
+
       &.is-desktop-icon-only {
         span:not(.icon) {
           display: none;

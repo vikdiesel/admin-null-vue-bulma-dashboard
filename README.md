@@ -1,11 +1,11 @@
 # [Admin Null — free Vue Bulma dashboard with dark mode](https://justboil.me/bulma-admin-template/null)
 
-[![version](https://img.shields.io/badge/version-1.2.0-blue.svg)](https://justboil.me/bulma-admin-template/null)  [![license](https://img.shields.io/badge/license-MIT-blue.svg)](https://justboil.me/bulma-admin-template/null)
+[![version](https://img.shields.io/badge/version-1.3.0-blue.svg)](https://justboil.me/bulma-admin-template/null)  [![license](https://img.shields.io/badge/license-MIT-blue.svg)](https://justboil.me/bulma-admin-template/null)
 
 [![Vue.js Bulma free admin dashboard](https://justboil.me/images/null/repository-preview-hi-res.png)](https://vikdiesel.github.io/admin-null-vue-bulma-dashboard/)
 
-**Admin Null** is simple, beautiful and free Vue.js Bulma Admin Dashboard.
-
+**Admin Null** is simple, beautiful and free Vue.js Bulma Buefy admin dashboard.
+s
 * Free under MIT License
 * PWA/SPA — Single page app
 * Built with Bulma, Buefy, Vue & Vue CLI
@@ -78,7 +78,7 @@ JustBoil's free items are limited to community support on GitHub.
 
 The issue list is reserved exclusively for bug reports and feature requests. That means we do not accept usage questions. If you open an issue that does not conform to the requirements, it will be closed.
 
-1. Make sure that you are using the latest version of the Dashboard. Issues for outdated versions are irrelevant
+1. Make sure you are using the latest version of the Dashboard. Issues for outdated versions are irrelevant
 2. Provide steps to reproduce
 3. Provide an expected behavior
 4. Describe what is actually happening 

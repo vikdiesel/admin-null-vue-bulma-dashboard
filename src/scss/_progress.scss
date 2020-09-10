@@ -1,9 +1,0 @@
-progress.progress {
-  border: 1px solid $base-color;
-
-  @each $state-class, $state-color, $state-text in $state-colors {
-    &.is-#{$state-class} {
-      border: 1px solid $state-color;
-    }
-  }
-}

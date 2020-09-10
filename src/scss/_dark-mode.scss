@@ -35,6 +35,12 @@ html {
       }
     }
 
+    .progress {
+      &::-webkit-progress-bar {
+        background-color: $grey-dark;
+      }
+    }
+
     .button {
       background-color: transparent;
       border-color: $dark-mode-button-color!important;

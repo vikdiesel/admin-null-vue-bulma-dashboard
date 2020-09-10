@@ -13,7 +13,7 @@ $base-color: #2e323a;
 $base-color-light: #f1f2f2;
 
 /* General overrides */
-$primary: $turquoise;
+$primary: $cyan;
 $body-background-color: $white;
 $link: $blue;
 $link-visited: $purple;
@@ -113,7 +113,7 @@ $footer-padding: $default-padding * .33 $default-padding;
 $footer-logo-height: $size-base * 2;
 
 /* Progress: Bulma override */
-$progress-bar-background-color: transparent;
+//$progress-bar-background-color: transparent;
 
 /* Icon: specifics */
 $icon-update-mark-size: $size-base * .5;
@@ -124,8 +124,8 @@ $slider-track-background: transparent;
 
 /* Status/State colors (based on Bulma's) */
 $state-colors:
-                ('primary', $turquoise, $white),
-                ('info', $cyan, $white),
+                ('primary', $cyan, $white),
+                ('info', $blue, $white),
                 ('success', $green, $white),
                 ('warning', $yellow, $grey-darker),
                 ('danger', $red, $white),

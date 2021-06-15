@@ -27,9 +27,30 @@
 
 This is Bulma Vue.js Buefy dashboard version.
 
+### Tailwind CSS
+
+<table>
+    <tr>
+        <td align="center" colspan="2"><a href="https://justboil.me/tailwind-admin-templates"><img src="https://justboil.me/images/tailwind-gh-logo.png?v=2" width="219" height="40" alt="Tailwind CSS admin dashboard templates"></a></td>
+    </tr>
+    <tr>
+        <td align="center"><a href="https://github.com/justboil/admin-one-tailwind" title="Free Tailwind CSS admin dashboard HTML"><img src="https://justboil.me/svg/language-html5.svg" width="64" height="64"></a></td>
+        <td align="center"><a href="https://github.com/justboil/admin-one-vue-tailwind" title="Free Vue.js 3 Tailwind CSS admin dashboard"><img src="https://justboil.me/svg/vuejs.svg" width="64" height="64"></a></td>
+    </tr>
+    <tr>
+        <td align="center">Tailwind admin dashboard<br/>Pure HTML/CSS<br/><br/><a href="https://github.com/justboil/admin-one-tailwind" title="Free Tailwind admin dashboard HTML CSS">Free</a></td>
+        <td align="center">Tailwind admin dashboard<br/>Vue.js 3<br/><br/><a href="https://github.com/justboil/admin-one-vue-tailwind" title="Free Vue.js 3 Tailwind CSS admin dashboard">Free</a></td>
+    </tr>
+</table>
+
+### Bulma
+
 More info on free & premium versions of Admin Null dashboard: https://justboil.me/bulma-admin-template/null
 
 <table>
+    <tr>
+        <td align="center" colspan="2"><a href="https://justboil.me/"><img src="https://justboil.me/images/bulma-gh-logo.png" width="219" height="40" alt="Bulma admin dashboard templates"></a></td>
+    </tr>
     <tr>
         <td align="center"><a href="https://github.com/vikdiesel/admin-null-vue-bulma-dashboard" title="Free Bulma Vue.js Buefy admin dashboard"><img src="https://justboil.me/svg/vuejs.svg" width="64" height="64"></a></td>
         <td align="center"><a href="https://github.com/justboil/admin-null-nuxt" title="Free Bulma Nuxt.js Buefy admin dashboard"><img src="https://justboil.me/svg/nuxt.svg" width="64" height="64"></a></td>

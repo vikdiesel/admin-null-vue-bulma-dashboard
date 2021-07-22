@@ -1,6 +1,6 @@
-# [Admin Null — free Vue Bulma dashboard with dark mode](https://justboil.me/bulma-admin-template/null)
+# [Admin Null — free Vue Bulma dashboard with dark mode](https://justboil.me/bulma-admin-template/one#from-null)
 
-[![version](https://img.shields.io/github/v/release/vikdiesel/admin-null-vue-bulma-dashboard)](https://justboil.me/bulma-admin-template/null)  [![license](https://img.shields.io/badge/license-MIT-blue.svg)](https://justboil.me/bulma-admin-template/null)
+[![version](https://img.shields.io/github/v/release/vikdiesel/admin-null-vue-bulma-dashboard)](https://justboil.me/bulma-admin-template/one#from-null)  [![license](https://img.shields.io/badge/license-MIT-blue.svg)](https://justboil.me/bulma-admin-template/one#from-null)
 
 [![Free Vue.js Bulma Buefy admin dashboard](https://justboil.me/images/null/repository-preview-hi-res.png)](https://vikdiesel.github.io/admin-null-vue-bulma-dashboard/)
 
@@ -11,7 +11,7 @@
 * Built with Bulma, Buefy, Vue & Vue CLI
 * Light & Dark modes
 * SCSS sources with variables
-* [Premium version](https://justboil.me/bulma-admin-template/null) available
+* [Premium version](https://justboil.me/bulma-admin-template/one#from-null) available
 
 ## Table of Contents
 
@@ -39,13 +39,13 @@ This is Bulma Vue.js Buefy dashboard version.
     </tr>
     <tr>
         <td align="center">Tailwind admin dashboard<br/>Pure HTML/CSS<br/><br/><a href="https://github.com/justboil/admin-one-tailwind" title="Free Tailwind admin dashboard HTML CSS">Free</a></td>
-        <td align="center">Tailwind admin dashboard<br/>Vue.js 3<br/><br/><a href="https://github.com/justboil/admin-one-vue-tailwind" title="Free Vue.js 3 Tailwind CSS admin dashboard">Free</a></td>
+        <td align="center">Tailwind admin dashboard<br/>Vue.js 3<br/><br/><a href="https://github.com/justboil/admin-one-vue-tailwind" title="Free Vue.js 3 Tailwind CSS admin dashboard">Free</a> | <a href="https://justboil.me/tailwind-admin-templates/vue-dashboard" title="Vue.js 3 Tailwind CSS admin dashboard">Premium</a></td>
     </tr>
 </table>
 
 ### Bulma
 
-More info on free & premium versions of Admin Null dashboard: https://justboil.me/bulma-admin-template/null
+More info on free & premium versions of Admin Null dashboard: https://justboil.me/bulma-admin-template/one#from-null
 
 <table>
     <tr>
@@ -56,8 +56,8 @@ More info on free & premium versions of Admin Null dashboard: https://justboil.m
         <td align="center"><a href="https://github.com/justboil/admin-null-nuxt" title="Free Bulma Nuxt.js Buefy admin dashboard"><img src="https://justboil.me/svg/nuxt.svg" width="64" height="64"></a></td>
     </tr>
     <tr>
-        <td align="center">Bulma admin dashboard<br/>Vue.js Buefy<br/><br/><a href="https://github.com/vikdiesel/admin-null-vue-bulma-dashboard" title="Free Bulma Vue.js Buefy admin dashboard">Free</a> | <a href="https://justboil.me/bulma-admin-template/null" title="Premium Bulma Vue.js Buefy admin dashboard">Premium</a></td>
-        <td align="center">Bulma admin dashboard<br/>Nuxt.js Buefy<br/><br/><a href="https://github.com/justboil/admin-null-nuxt" title="Free Bulma Nuxt.js Buefy admin dashboard">Free</a> | <a href="https://justboil.me/bulma-admin-template/null-nuxt" title="Premium Bulma Nuxt.js Buefy admin dashboard">Premium</a></td>
+        <td align="center">Bulma admin dashboard<br/>Vue.js Buefy<br/><br/><a href="https://github.com/vikdiesel/admin-null-vue-bulma-dashboard" title="Free Bulma Vue.js Buefy admin dashboard">Free</a> | <a href="https://justboil.me/bulma-admin-template/one#from-null" title="Premium Bulma Vue.js Buefy admin dashboard">Premium</a></td>
+        <td align="center">Bulma admin dashboard<br/>Nuxt.js Buefy<br/><br/><a href="https://github.com/justboil/admin-null-nuxt" title="Free Bulma Nuxt.js Buefy admin dashboard">Free</a> | <a href="https://justboil.me/bulma-admin-template/one#from-null-nuxt" title="Premium Bulma Nuxt.js Buefy admin dashboard">Premium</a></td>
     </tr>
 </table>
 
@@ -65,7 +65,7 @@ More info on free & premium versions of Admin Null dashboard: https://justboil.m
 
 #### Description
 
-https://justboil.me/bulma-admin-template/null
+https://justboil.me/bulma-admin-template/one#from-null
 
 #### Free Dashboard Demo
 
@@ -73,7 +73,7 @@ https://vikdiesel.github.io/admin-null-vue-bulma-dashboard/
 
 #### Premium Dashboard Demo
 
-https://admin-null.justboil.me
+https://admin-one.justboil.me
 
 ## Quick Start
 

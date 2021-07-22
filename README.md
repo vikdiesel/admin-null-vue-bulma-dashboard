@@ -73,7 +73,7 @@ https://vikdiesel.github.io/admin-null-vue-bulma-dashboard/
 
 #### Premium Dashboard Demo
 
-https://admin-one.justboil.me
+https://admin-one.justboil.me/?style=light-dark
 
 ## Quick Start
 
